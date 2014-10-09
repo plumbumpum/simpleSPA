@@ -1,4 +1,8 @@
 simpleSPA
 =========
 
-simple Single Page Application
+Установка:
+1. Стянуть репозиторий
+2. Установить node js
+3. В корне открыть консоль выполнить: npm install и bower install
+4. Запустить сервер через консоль: node server.js
